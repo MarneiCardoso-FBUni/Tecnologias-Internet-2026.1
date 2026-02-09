@@ -23,7 +23,7 @@ Esta disciplina apresenta uma visão geral das tecnologias utilizadas no desenvo
 
 | Aula | Data | Tema | Conteúdo |
 |------|------|------|----------|
-| 01 | 02/02/2026 | Apresentação | Conhecendo a turma e a disciplina, plano de ensino |
+| 01 | 02/02/2026 | Apresentação | Conhecendo a turma e a disciplina, plano de ensino, avaliações |
 | 02 | 09/02/2026 | Introdução às tecnologias de Internet | História da Computação, Introdução às tecnologias de Internet |
 | 03 | 16/02/2026 | **Feriado** | Carnaval |
 | 04 | 23/02/2026 | ... | ... |
