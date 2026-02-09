@@ -1,6 +1,8 @@
 # Tecnologias de Internet - 2026.1 🚀
 
-> Disciplina do curso de Ciência da Computação, ADS, GTI, Games - FB Uni
+> Disciplina do curso de Ciência da Computação, Análise e Desenvolvimento de Sistema (ADS) e Games
+
+> Centro Universitário Farias Brito - FB Uni
 
 > Professor: Marnei Cardoso
 
@@ -8,7 +10,7 @@
 
 ## Sobre a Disciplina
 
-Esta disciplina apresenta uma visão geral das tecnologias utilizadas no desenvolvimento Web, desde a História da Computação e Infraestrutura, passando por Front-End, com HTML, CSS e JavaScript, até o Back-End, Banco de Dados e criptografias. Ao finalizar esta disciplina, o estudante terá uma base sólida para se aprofundar na área em que mais tiver interesse.
+Esta disciplina apresenta uma visão geral das tecnologias utilizadas no desenvolvimento Web, desde a História da Computação e Infraestrutura, passando por Front-End, com HTML, CSS e JavaScript, até o Back-End, Banco de Dados e criptografia. Ao finalizar esta disciplina, o estudante terá uma base sólida para se aprofundar na área em que mais tiver interesse.
 
 ---
 
@@ -20,7 +22,7 @@ Esta disciplina apresenta uma visão geral das tecnologias utilizadas no desenvo
 | Aula | Data | Tema | Conteúdo |
 |------|------|------|----------|
 | 01 | 02/02/2026 | Apresentação | Conhecendo a turma e a disciplina, plano de ensino |
-| 02 | 09/02/2026 | ... | ... |
+| 02 | 09/02/2026 | Introdução às tecnologias de Internet | História da Computação, Introdução às tecnologias de Internet |
 | 03 | 16/02/2026 | **Feriado** | Carnaval |
 | 04 | 23/02/2026 | ... | ... |
 | 05 | 02/03/2026 | ... | ... |
